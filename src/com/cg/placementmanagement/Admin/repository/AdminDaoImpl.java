@@ -43,7 +43,4 @@ public class AdminDaoImpl implements AdminDao {
 		entityManager.getTransaction().commit();
 		
 	}
-
-	
-	
 	}
